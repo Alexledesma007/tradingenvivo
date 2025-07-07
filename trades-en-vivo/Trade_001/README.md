@@ -9,7 +9,7 @@
 |----------------|---------------------|
 | **Zona Entrada** | 22889.50 |
 | **Zona Salida**  | 22839.00 |
-| **Riesgo**       | 50 PTS ( |
+| **Riesgo**       | 50 PTS  |
 | **Beneficio**    | operación negativa |
 | **Ratio R/R**    | 1:3             |
 
