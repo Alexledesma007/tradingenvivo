@@ -2,6 +2,7 @@
 # 📊 Trade #001 - Nasdaq 100 (NQ)
 
 [Ver video - http://bit.ly/40yMHf2]
+
 ![Gráfico del Trade](trade_001-2.png)
 
 ## 📈 Detalles de la Operación
