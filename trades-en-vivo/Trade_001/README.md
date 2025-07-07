@@ -20,9 +20,6 @@ Como se puede ver tanto en H1 como en H4 la operación fue tomada a favor del BO
 
 Claramente aquí la zona más importante es el FVG H4 (tiene más peso a nivel macro y estructural que H1) y tomando en cuenta que los lunes casi siempre son días para sacar liquidez podría decir que técnicamente fue un buen trade, pero voy a quitarle puntos por el incorrecto manejo emocional, subestimé el retroceso a la baja en un día de sacada de liquidez, de hecho analicé todo eso antes de operar así que le quitaré otro punto a la operativa, la voy a calificar con 3 estrellas, debo mejorar lo mencionado en este análisis.
 
-## ⚖️ Evaluación Operativa
-Voy a quitarle puntos por el incorrecto manejo emocional, subestimé el retroceso a la baja en un día de sacada de liquidez, de hecho analicé todo eso antes de operar así que le quitaré otro punto, la voy a calificar con 3 estrellas, debo mejorar lo mencionado en este análisis.
-
 ## 📌 Lecciones Clave
 1. La paciencia en zonas de origen aumenta probabilidad
 2. Los bloques FVG con volumen son altamente confiables
