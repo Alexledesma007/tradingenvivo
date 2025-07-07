@@ -20,10 +20,6 @@ Como se puede ver tanto en H1 como en H4 la operación fue tomada a favor del BO
 
 Claramente aquí la zona más importante es el FVG H4 (tiene más peso a nivel macro y estructural que H1) y tomando en cuenta que los lunes casi siempre son días para sacar liquidez podría decir que técnicamente fue un buen trade, pero voy a quitarle puntos por el incorrecto manejo emocional, subestimé el retroceso a la baja en un día de sacada de liquidez, de hecho analicé todo eso antes de operar así que le quitaré otro punto a la operativa, la voy a calificar con 3 estrellas, debo mejorar lo mencionado en este análisis.
 
-## 📉 Contexto Técnico
-Como se puede ver tanto en H1 como en H4 la operación fue tomada a favor del BOS an ambas temporalidades y alcanzó 72 puntos hasta que se desplomó sacándome en negativo induciendo el FVG H4 que está más abajo, mismo bloque que a su vez tiene dentro un FVG H1. 
-Claramente aquí la zona más importante es el FVG H4 (tiene más peso a nivel macro y estructural que H1) y tomando en cuenta que los lunes casi siempre son días para sacar liquidez podría decir que técnicamente fue un buen trade,
-
 ## ⚖️ Evaluación Operativa
 Voy a quitarle puntos por el incorrecto manejo emocional, subestimé el retroceso a la baja en un día de sacada de liquidez, de hecho analicé todo eso antes de operar así que le quitaré otro punto, la voy a calificar con 3 estrellas, debo mejorar lo mencionado en este análisis.
 
