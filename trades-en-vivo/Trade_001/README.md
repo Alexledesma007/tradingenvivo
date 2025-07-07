@@ -1,24 +1,30 @@
-# 📅 Fecha del Trade: 15/08/2025
+# 📅 Fecha del Trade: 07/07/2025
 # 📊 Trade #001 - Nasdaq 100 (NQ)
 
-![Gráfico del Trade](trade_001.png) <!-- Asegúrate que el nombre coincida exactamente -->
+![Gráfico del Trade](trade_001.mp4)
+![Gráfico del Trade](trade_001-2.png)
 
 ## 📈 Detalles de la Operación
 | Parámetro       | Valor               |
 |----------------|---------------------|
-| **Zona Entrada** | 18,250 - 18,275 PTS |
-| **Zona Salida**  | 18,450 - 18,475 PTS |
-| **Riesgo**       | 53 PTS (1.5% capital) |
-| **Beneficio**    | 346 PTS (9.8% capital) |
-| **Ratio R/R**    | 1:6.5              |
+| **Zona Entrada** | 22889.50 |
+| **Zona Salida**  | 22839.00 |
+| **Riesgo**       | 50 PTS ( |
+| **Beneficio**    | operación negativa |
+| **Ratio R/R**    | 1:3             |
 
 ## 🎯 Análisis Técnico
-- **Patrón identificado**: Bloque FVG en H4 coincidente con:
-  - Liquidez previa en 18,200 PTS
-  - Nivel de interés institucional
-- **Confirmación**: 
-  - Volumen superior al promedio (+32%)
-  - Alineación con flujo de órdenes
+
+Como se puede ver tanto en H1 como en H4 la operación fue tomada a favor del BOS an ambas temporalidades y alcanzó 72 puntos hasta que se desplomó sacándome en negativo induciendo el FVG H4 que está más abajo, mismo bloque que a su vez tiene dentro un FVG H1. 
+
+Claramente aquí la zona más importante es el FVG H4 (tiene más peso a nivel macro y estructural que H1) y tomando en cuenta que los lunes casi siempre son días para sacar liquidez podría decir que técnicamente fue un buen trade, pero voy a quitarle puntos por el incorrecto manejo emocional, subestimé el retroceso a la baja en un día de sacada de liquidez, de hecho analicé todo eso antes de operar así que le quitaré otro punto a la operativa, la voy a calificar con 3 estrellas, debo mejorar lo mencionado en este análisis.
+
+## 📉 Contexto Técnico
+Como se puede ver tanto en H1 como en H4 la operación fue tomada a favor del BOS an ambas temporalidades y alcanzó 72 puntos hasta que se desplomó sacándome en negativo induciendo el FVG H4 que está más abajo, mismo bloque que a su vez tiene dentro un FVG H1. 
+Claramente aquí la zona más importante es el FVG H4 (tiene más peso a nivel macro y estructural que H1) y tomando en cuenta que los lunes casi siempre son días para sacar liquidez podría decir que técnicamente fue un buen trade,
+
+## ⚖️ Evaluación Operativa
+Voy a quitarle puntos por el incorrecto manejo emocional, subestimé el retroceso a la baja en un día de sacada de liquidez, de hecho analicé todo eso antes de operar así que le quitaré otro punto, la voy a calificar con 3 estrellas, debo mejorar lo mencionado en este análisis.
 
 ## 📌 Lecciones Clave
 1. La paciencia en zonas de origen aumenta probabilidad
@@ -27,3 +33,7 @@
 
 ## 💡 Reflexión Final
 *"El mercado recompensa la disciplina en zonas clave más que la frecuencia operativa"*
+
+---
+
+🔍 **Ver análisis completo**: (http://bit.ly/3GAVTst)
