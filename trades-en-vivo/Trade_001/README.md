@@ -1,7 +1,7 @@
 # 📅 Fecha del Trade: 07/07/2025
 # 📊 Trade #001 - Nasdaq 100 (NQ)
 
-![Video del Trade](trade_001.mp4)
+![Descargar video del Trade](trade_001.mp4)
 ![Gráfico del Trade](trade_001-2.png)
 
 ## 📈 Detalles de la Operación
@@ -37,3 +37,7 @@ Voy a quitarle puntos por el incorrecto manejo emocional, subestimé el retroces
 ---
 
 🔍 **Ver análisis completo**: (http://bit.ly/3GAVTst)
+
+PD: Siempre tuve razón... 
+
+![Gráfico del Trade](trade_001-3.png)
