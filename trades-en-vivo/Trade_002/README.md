@@ -10,9 +10,9 @@
 | Parámetro       | Valor               |
 |----------------|---------------------|
 | **Zona Entrada** | 22,855.50 |
-| **Zona Salida**  | pendiente... |
+| **Zona Salida**  | 22915.00 |
 | **Riesgo**       | 50 PTS |
-| **Beneficio**    | pendiente... |
+| **Beneficio**    | 52 PTS |
 | **Ratio R/R**    | 1:3        |
 
 ## 🎯 Análisis Técnico
@@ -34,3 +34,5 @@ Operar escenarios altamente probables sin buscar condiciones perfectas ante retr
 ---
 
 🔍 **Ver análisis completo**: [https://cutt.ly/hrUpUAuR]
+
+PD: Cerré la posición con 52 puntos de profit en los 22915.00 porque ya había alcanzado el 1:2 y se estaba regresando... llegó a subir hasta los 82 puntos pero con la baja volatilidad y la liquidez bajando a partir de las 2:30pm no valía la pena aguantar la posición más tiempo, a partir de ahora pondré alertas para no descuidar el mercado mientras hago otras cosas.
