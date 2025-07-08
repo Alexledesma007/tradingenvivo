@@ -17,7 +17,7 @@
 
 ## 🎯 Análisis Técnico
 
-Trade de continuación en Origen H1 con BOS generado por la reacción alcista en FVG H4/H1, no tengo permitido en mi trading plan salir del mercado con menos de 100 puntos, pero estaba lejos de la PC cuando alcanzó el 1:2, la operación sigue abierta respetando el contexto general, el cual a nivel macro está bastante claro pero a nivel micro con la lateralización y el leve retroceso de semanal generan cierta incertidumbre, pero en el trading no existen los "escenarios perfectos" sino los escenarios de altamente probables, si fuera por incertidumbre no operaríamos nunca. 
+Trade de continuación en Origen H1 con BOS generado por la reacción alcista en FVG H4/H1, no tengo permitido en mi trading plan salir del mercado con menos de 100 puntos, pero estaba lejos de la PC cuando alcanzó el 1:2, la operación sigue abierta respetando el contexto general, el cual a nivel macro está bastante claro pero a nivel micro con la lateralización y el leve retroceso de semanal generan cierta incertidumbre, pero en el trading no existen los "escenarios perfectos" sino los escenarios altamente probables, si fuera por incertidumbre no operaríamos nunca. 
 
 ## 📌 Lecciones Clave
 
