@@ -1,5 +1,5 @@
 # 📅 Fecha del Trade: 07/07/2025
-# 📊 Trade #001 - Nasdaq 100 (NQ)
+# 📊 Trade en vivo #001 - Nasdaq 100 (NQ)
 
 [Ver video - http://bit.ly/40yMHf2]
 
