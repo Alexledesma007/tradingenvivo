@@ -3,7 +3,7 @@
 
 [Ver video - https://cutt.ly/orUm6BAe]
 
-![Gráfico del Trade](trade_002.png) <!-- Asegúrate que el nombre coincida exactamente -->
+![Gráfico del Trade](trade_003.png) <!-- Asegúrate que el nombre coincida exactamente -->
 
 
 ## 📈 Detalles de la Operación
