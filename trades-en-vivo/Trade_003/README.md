@@ -10,10 +10,10 @@
 | Parámetro       | Valor               |
 |----------------|---------------------|
 | **Zona Entrada** | 22956.00 |
-| **Zona Salida**  | pendiente |
+| **Zona Salida**  | 23047.25 |
 | **Riesgo**       | 50 PTS |
-| **Beneficio**    | pendiente... |
-| **Ratio R/R**    | 1:3        |
+| **Beneficio**    | 92 PTS |
+| **Ratio R/R**    | 1:2        |
 
 ## 🎯 Análisis Técnico
 
