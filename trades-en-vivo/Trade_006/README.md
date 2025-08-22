@@ -4,6 +4,7 @@
 ![Gráfico del Trade](trade_006.png) <!-- Asegúrate que el nombre coincida exactamente -->
 
 📈 Detalles de la Operación
+
 Parámetro	| Valor |
 Contratos	| 3     |
 Riesgo	        | 90 PTS |
