@@ -6,10 +6,9 @@
 ## 📈 Detalles de la Operación
 | Parámetro       | Valor               |
 |----------------|---------------------|
-| **Zona Entrada** | 22956.00 |
-| **Zona Salida**  | 23047.25 |
-| **Riesgo**       | 50 PTS |
-| **Beneficio**    | 92 PTS |
+| **Contratos** | 3 |
+| **Riesgo**       | 90 PTS |
+| **Beneficio**    | 44 PTS (Ganancia parcial) |
 | **Ratio R/R**    | 1:2        |
 
 🎯 Análisis Técnico
