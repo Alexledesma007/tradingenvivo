@@ -3,9 +3,6 @@
 
 ![Gráfico del Trade](trade_006.png) <!-- Asegúrate que el nombre coincida exactamente -->
 
-📅 Fecha del Trade: 22/08/2025
-📊 Trade #006 - Nasdaq 100 (NQ)
-
 📈 Detalles de la Operación
 Parámetro	Valor
 Contratos	3
