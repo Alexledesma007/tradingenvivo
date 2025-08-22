@@ -13,7 +13,7 @@
 
 🎯 Análisis Técnico
 
-El mercado venía de zona de vendedores y se veía muy comprimido a la baja y sin una dirección clara, tenía un FVG H1 válido al alza y lo dejé pasar por no tener una idea clara de qué estaba pasando realmente, mercado rompe al alza y me arriesgo a tomar ese FVG H1 sacando 42 puntos como ganancia parcial con tres contratos.
+El mercado venía de zona de vendedores y se veía muy comprimido a la baja y sin una dirección clara, tenía un FVG H1 válido al alza apoyado en un Origen H4 y lo dejé pasar por no tener una idea clara de qué estaba pasando realmente, mercado rompe al alza y me arriesgo a tomar ese FVG H1 sacando 42 puntos como ganancia parcial con tres contratos.
 
 🧠 Análisis Estratégico
 
