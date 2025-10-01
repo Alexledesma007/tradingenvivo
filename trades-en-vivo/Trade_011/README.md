@@ -6,4 +6,4 @@
 
 ---
 
-🔍 **Ver análisis completo**: https://alexledesma21.blogspot.com/2025/09/analisis-de-mercado-mnq-martes-30-de.html |
+🔍 **Ver análisis completo**: https://alexledesma21.blogspot.com/2025/09/analisis-de-mercado-mnq-martes-30-de.html
