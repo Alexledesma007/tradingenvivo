@@ -1,5 +1,5 @@
 # 📅 Fecha del Trade: 07/10/2025
-# 📊 Trade #013 - Nasdaq 100 (NQ)
+# 📊 Trade #013 - Nasdaq 100 (MNQ)
 
 ![Gráfico del Trade](trade_013.png) <!-- Asegúrate que el nombre coincida exactamente -->
 ![Gráfico del Trade](trade_013-2.png) <!-- Asegúrate que el nombre coincida exactamente -->
