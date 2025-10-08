@@ -1,4 +1,4 @@
-# 📅 Fecha del Trade: 15/08/2025
+# 📅 Fecha del Trade: 08/10/2025
 # 📊 Trade #014 - Nasdaq 100 (MNQ)
 
 ![Gráfico del Trade](trade_014.png) <!-- Asegúrate que el nombre coincida exactamente -->
