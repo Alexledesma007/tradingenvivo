@@ -6,11 +6,11 @@
 
 # 
 
-# 
+# Backtesting: https://awf.fxreplay.com/social-media-share-image/82f0c99d-dfe2-5e00-a1bb-7f3f339aa824
+
+
 
 # Trading Plan en formato PDF.
-
-
 
 
 
@@ -23,10 +23,4 @@
 # 
 
 # Excel con cada trade documentado (correctos / incorrectos).
-
-
-
-
-
-
 
