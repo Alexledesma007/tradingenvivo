@@ -1,4 +1,4 @@
-# 📅 Fecha del Trade: 15/08/2025
+# 📅 Fecha del Trade: 02/09/2025
 # 📊 Trade #010 - Nasdaq 100 (NQ)
 
 ![Gráfico del Trade](trade_010.png) <!-- Asegúrate que el nombre coincida exactamente -->
